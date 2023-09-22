@@ -6,6 +6,9 @@
     text-decoration: none;
 }
 
+.greeting{
+    font-weight: bold;
+}
 /*  Estilos Header */
 body {
     margin-top: 100px;
